@@ -1,3 +1,3 @@
 package mathlib
 
-const Version = "1.0.1"
+const Version = "3.0.0"
